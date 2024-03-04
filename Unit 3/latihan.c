@@ -6,7 +6,6 @@ int main() {
     int i;
     int total = 0;
 
-    // Membaca masukan
     scanf("%d", &jumlahElemen);
 
     for (i = 0; i < jumlahElemen; i++) {
